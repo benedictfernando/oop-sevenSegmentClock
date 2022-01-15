@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace oop_sevenSegmentClock
 {
-    public partial class Form1 : Form
+    public partial class sevensegmentclock : Form
     {
-        public Form1()
+        public sevensegmentclock()
         {
             InitializeComponent();
         }

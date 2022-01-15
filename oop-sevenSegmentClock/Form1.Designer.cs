@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(sevensegmentclock));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel9 = new System.Windows.Forms.TableLayoutPanel();
@@ -86,6 +87,7 @@
             this.button45 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
+            this.time = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel9.SuspendLayout();
             this.tableLayoutPanel7.SuspendLayout();
@@ -839,6 +841,12 @@
             this.button9.Text = "button9";
             this.button9.UseVisualStyleBackColor = true;
             // 
+            // time
+            // 
+            this.time.Enabled = true;
+            this.time.Interval = 1000;
+            this.time.Tick += new System.EventHandler(this.loadTime);
+            // 
             // sevensegmentclock
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
@@ -923,5 +931,6 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel8;
         private System.Windows.Forms.Button button46;
         private System.Windows.Forms.Button button45;
+        private System.Windows.Forms.Timer time;
     }
 }

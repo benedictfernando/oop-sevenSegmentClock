@@ -12,21 +12,24 @@ namespace oop_sevenSegmentClock
 {
     public partial class sevensegmentclock : Form
     {
+        // Declare list of table layout panels
+        List<TableLayoutPanel> panels = new List<TableLayoutPanel>();
+
         public sevensegmentclock()
         {
             InitializeComponent();
-        }
 
-        // initialize table layout panels on a list
-        // var panels = new List<TableLayoutPanel>() {h1, h2, m1, m2, s1, s2};
+            // Add tables to global list
+            panels.Add(h1); panels.Add(h2);
+            panels.Add(m1); panels.Add(m2);
+            panels.Add(s1); panels.Add(s2);
+        }
 
         private void loadTime(object sender, EventArgs e)
         {
-            // string current = DateTime.Now.ToShortTimeString();
-            // char[] time = current.Remove(all letters & symbols).Split();
-
-            // for (int i = 0; i < time.length; i++)
-            //      printSegment(panels[i], time[i]);
+            string time = DateTime.Now.ToString("HHmmss");
+            for (int i = 0, n = time.Length; i < n; i++)
+                printSegment(panels[i], time[i]);
         }
 
         private void printSegment(TableLayoutPanel tlp, char val)

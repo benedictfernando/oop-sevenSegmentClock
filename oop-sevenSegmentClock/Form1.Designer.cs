@@ -34,54 +34,54 @@
             this.tableLayoutPanel9 = new System.Windows.Forms.TableLayoutPanel();
             this.button47 = new System.Windows.Forms.Button();
             this.button48 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel7 = new System.Windows.Forms.TableLayoutPanel();
-            this.button38 = new System.Windows.Forms.Button();
-            this.button39 = new System.Windows.Forms.Button();
-            this.button40 = new System.Windows.Forms.Button();
-            this.button41 = new System.Windows.Forms.Button();
-            this.button42 = new System.Windows.Forms.Button();
-            this.button43 = new System.Windows.Forms.Button();
-            this.button44 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.button33 = new System.Windows.Forms.Button();
-            this.button34 = new System.Windows.Forms.Button();
-            this.button35 = new System.Windows.Forms.Button();
-            this.button36 = new System.Windows.Forms.Button();
-            this.button37 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
-            this.button24 = new System.Windows.Forms.Button();
-            this.button25 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
+            this.s2 = new System.Windows.Forms.TableLayoutPanel();
+            this.s20 = new System.Windows.Forms.Button();
+            this.s21 = new System.Windows.Forms.Button();
+            this.s22 = new System.Windows.Forms.Button();
+            this.s23 = new System.Windows.Forms.Button();
+            this.s24 = new System.Windows.Forms.Button();
+            this.s25 = new System.Windows.Forms.Button();
+            this.s26 = new System.Windows.Forms.Button();
+            this.s1 = new System.Windows.Forms.TableLayoutPanel();
+            this.s10 = new System.Windows.Forms.Button();
+            this.s11 = new System.Windows.Forms.Button();
+            this.s12 = new System.Windows.Forms.Button();
+            this.s13 = new System.Windows.Forms.Button();
+            this.s14 = new System.Windows.Forms.Button();
+            this.s15 = new System.Windows.Forms.Button();
+            this.s16 = new System.Windows.Forms.Button();
+            this.m2 = new System.Windows.Forms.TableLayoutPanel();
+            this.m20 = new System.Windows.Forms.Button();
+            this.m21 = new System.Windows.Forms.Button();
+            this.m22 = new System.Windows.Forms.Button();
+            this.m23 = new System.Windows.Forms.Button();
+            this.m24 = new System.Windows.Forms.Button();
+            this.m25 = new System.Windows.Forms.Button();
+            this.m26 = new System.Windows.Forms.Button();
+            this.m1 = new System.Windows.Forms.TableLayoutPanel();
+            this.m10 = new System.Windows.Forms.Button();
+            this.m11 = new System.Windows.Forms.Button();
+            this.m12 = new System.Windows.Forms.Button();
+            this.m13 = new System.Windows.Forms.Button();
+            this.m14 = new System.Windows.Forms.Button();
+            this.m15 = new System.Windows.Forms.Button();
+            this.m16 = new System.Windows.Forms.Button();
+            this.h1 = new System.Windows.Forms.TableLayoutPanel();
+            this.h10 = new System.Windows.Forms.Button();
+            this.h11 = new System.Windows.Forms.Button();
+            this.h12 = new System.Windows.Forms.Button();
+            this.h13 = new System.Windows.Forms.Button();
+            this.h14 = new System.Windows.Forms.Button();
+            this.h15 = new System.Windows.Forms.Button();
+            this.h16 = new System.Windows.Forms.Button();
+            this.h2 = new System.Windows.Forms.TableLayoutPanel();
+            this.h20 = new System.Windows.Forms.Button();
+            this.h21 = new System.Windows.Forms.Button();
+            this.h22 = new System.Windows.Forms.Button();
+            this.h23 = new System.Windows.Forms.Button();
+            this.h24 = new System.Windows.Forms.Button();
+            this.h25 = new System.Windows.Forms.Button();
+            this.h26 = new System.Windows.Forms.Button();
             this.tableLayoutPanel8 = new System.Windows.Forms.TableLayoutPanel();
             this.button46 = new System.Windows.Forms.Button();
             this.button45 = new System.Windows.Forms.Button();
@@ -90,12 +90,12 @@
             this.time = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel9.SuspendLayout();
-            this.tableLayoutPanel7.SuspendLayout();
-            this.tableLayoutPanel6.SuspendLayout();
-            this.tableLayoutPanel5.SuspendLayout();
-            this.tableLayoutPanel4.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.tableLayoutPanel3.SuspendLayout();
+            this.s2.SuspendLayout();
+            this.s1.SuspendLayout();
+            this.m2.SuspendLayout();
+            this.m1.SuspendLayout();
+            this.h1.SuspendLayout();
+            this.h2.SuspendLayout();
             this.tableLayoutPanel8.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -113,12 +113,12 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10.002F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 16.66333F));
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel9, 6, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel7, 8, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel6, 7, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel5, 5, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel4, 4, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel2, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel3, 2, 1);
+            this.tableLayoutPanel1.Controls.Add(this.s2, 8, 1);
+            this.tableLayoutPanel1.Controls.Add(this.s1, 7, 1);
+            this.tableLayoutPanel1.Controls.Add(this.m2, 5, 1);
+            this.tableLayoutPanel1.Controls.Add(this.m1, 4, 1);
+            this.tableLayoutPanel1.Controls.Add(this.h1, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.h2, 2, 1);
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel8, 3, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
@@ -169,618 +169,618 @@
             this.button48.TabIndex = 1;
             this.button48.UseVisualStyleBackColor = true;
             // 
-            // tableLayoutPanel7
-            // 
-            this.tableLayoutPanel7.ColumnCount = 3;
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel7.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel7.Controls.Add(this.button38, 1, 0);
-            this.tableLayoutPanel7.Controls.Add(this.button39, 2, 1);
-            this.tableLayoutPanel7.Controls.Add(this.button40, 2, 3);
-            this.tableLayoutPanel7.Controls.Add(this.button41, 1, 4);
-            this.tableLayoutPanel7.Controls.Add(this.button42, 0, 3);
-            this.tableLayoutPanel7.Controls.Add(this.button43, 0, 1);
-            this.tableLayoutPanel7.Controls.Add(this.button44, 1, 2);
-            this.tableLayoutPanel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel7.Location = new System.Drawing.Point(575, 111);
-            this.tableLayoutPanel7.Name = "tableLayoutPanel7";
-            this.tableLayoutPanel7.RowCount = 5;
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel7.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel7.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel7.TabIndex = 7;
-            // 
-            // button38
-            // 
-            this.button38.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button38.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button38.Enabled = false;
-            this.button38.Location = new System.Drawing.Point(17, 3);
-            this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(37, 9);
-            this.button38.TabIndex = 0;
-            this.button38.UseVisualStyleBackColor = true;
-            // 
-            // button39
-            // 
-            this.button39.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button39.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button39.Enabled = false;
-            this.button39.Location = new System.Drawing.Point(60, 18);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(9, 40);
-            this.button39.TabIndex = 1;
-            this.button39.UseVisualStyleBackColor = true;
-            // 
-            // button40
-            // 
-            this.button40.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button40.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button40.Enabled = false;
-            this.button40.Location = new System.Drawing.Point(60, 79);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(9, 40);
-            this.button40.TabIndex = 2;
-            this.button40.UseVisualStyleBackColor = true;
-            // 
-            // button41
-            // 
-            this.button41.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button41.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button41.Enabled = false;
-            this.button41.Location = new System.Drawing.Point(17, 125);
-            this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(37, 10);
-            this.button41.TabIndex = 3;
-            this.button41.UseVisualStyleBackColor = true;
-            // 
-            // button42
-            // 
-            this.button42.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button42.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button42.Enabled = false;
-            this.button42.Location = new System.Drawing.Point(3, 79);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(8, 40);
-            this.button42.TabIndex = 4;
-            this.button42.UseVisualStyleBackColor = true;
-            // 
-            // button43
-            // 
-            this.button43.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button43.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button43.Enabled = false;
-            this.button43.Location = new System.Drawing.Point(3, 18);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(8, 40);
-            this.button43.TabIndex = 5;
-            this.button43.UseVisualStyleBackColor = true;
-            // 
-            // button44
-            // 
-            this.button44.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button44.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button44.Enabled = false;
-            this.button44.Location = new System.Drawing.Point(17, 64);
-            this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(37, 9);
-            this.button44.TabIndex = 6;
-            this.button44.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel6
-            // 
-            this.tableLayoutPanel6.ColumnCount = 3;
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel6.Controls.Add(this.button31, 1, 0);
-            this.tableLayoutPanel6.Controls.Add(this.button32, 2, 1);
-            this.tableLayoutPanel6.Controls.Add(this.button33, 2, 3);
-            this.tableLayoutPanel6.Controls.Add(this.button34, 1, 4);
-            this.tableLayoutPanel6.Controls.Add(this.button35, 0, 3);
-            this.tableLayoutPanel6.Controls.Add(this.button36, 0, 1);
-            this.tableLayoutPanel6.Controls.Add(this.button37, 1, 2);
-            this.tableLayoutPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel6.Location = new System.Drawing.Point(497, 111);
-            this.tableLayoutPanel6.Name = "tableLayoutPanel6";
-            this.tableLayoutPanel6.RowCount = 5;
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel6.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel6.TabIndex = 7;
-            // 
-            // button31
-            // 
-            this.button31.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button31.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button31.Enabled = false;
-            this.button31.Location = new System.Drawing.Point(17, 3);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(37, 9);
-            this.button31.TabIndex = 0;
-            this.button31.UseVisualStyleBackColor = true;
-            // 
-            // button32
-            // 
-            this.button32.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button32.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button32.Enabled = false;
-            this.button32.Location = new System.Drawing.Point(60, 18);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(9, 40);
-            this.button32.TabIndex = 1;
-            this.button32.UseVisualStyleBackColor = true;
-            // 
-            // button33
-            // 
-            this.button33.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button33.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button33.Enabled = false;
-            this.button33.Location = new System.Drawing.Point(60, 79);
-            this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(9, 40);
-            this.button33.TabIndex = 2;
-            this.button33.UseVisualStyleBackColor = true;
-            // 
-            // button34
-            // 
-            this.button34.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button34.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button34.Enabled = false;
-            this.button34.Location = new System.Drawing.Point(17, 125);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(37, 10);
-            this.button34.TabIndex = 3;
-            this.button34.UseVisualStyleBackColor = true;
-            // 
-            // button35
-            // 
-            this.button35.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button35.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button35.Enabled = false;
-            this.button35.Location = new System.Drawing.Point(3, 79);
-            this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(8, 40);
-            this.button35.TabIndex = 4;
-            this.button35.UseVisualStyleBackColor = true;
-            // 
-            // button36
-            // 
-            this.button36.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button36.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button36.Enabled = false;
-            this.button36.Location = new System.Drawing.Point(3, 18);
-            this.button36.Name = "button36";
-            this.button36.Size = new System.Drawing.Size(8, 40);
-            this.button36.TabIndex = 5;
-            this.button36.UseVisualStyleBackColor = true;
-            // 
-            // button37
-            // 
-            this.button37.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button37.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button37.Enabled = false;
-            this.button37.Location = new System.Drawing.Point(17, 64);
-            this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(37, 9);
-            this.button37.TabIndex = 6;
-            this.button37.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel5
-            // 
-            this.tableLayoutPanel5.ColumnCount = 3;
-            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel5.Controls.Add(this.button24, 1, 0);
-            this.tableLayoutPanel5.Controls.Add(this.button25, 2, 1);
-            this.tableLayoutPanel5.Controls.Add(this.button26, 2, 3);
-            this.tableLayoutPanel5.Controls.Add(this.button27, 1, 4);
-            this.tableLayoutPanel5.Controls.Add(this.button28, 0, 3);
-            this.tableLayoutPanel5.Controls.Add(this.button29, 0, 1);
-            this.tableLayoutPanel5.Controls.Add(this.button30, 1, 2);
-            this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(393, 111);
-            this.tableLayoutPanel5.Name = "tableLayoutPanel5";
-            this.tableLayoutPanel5.RowCount = 5;
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel5.TabIndex = 7;
-            // 
-            // button24
-            // 
-            this.button24.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button24.Enabled = false;
-            this.button24.Location = new System.Drawing.Point(17, 3);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(37, 9);
-            this.button24.TabIndex = 0;
-            this.button24.UseVisualStyleBackColor = true;
-            // 
-            // button25
-            // 
-            this.button25.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button25.Enabled = false;
-            this.button25.Location = new System.Drawing.Point(60, 18);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(9, 40);
-            this.button25.TabIndex = 1;
-            this.button25.UseVisualStyleBackColor = true;
-            // 
-            // button26
-            // 
-            this.button26.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button26.Enabled = false;
-            this.button26.Location = new System.Drawing.Point(60, 79);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(9, 40);
-            this.button26.TabIndex = 2;
-            this.button26.UseVisualStyleBackColor = true;
-            // 
-            // button27
-            // 
-            this.button27.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button27.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button27.Enabled = false;
-            this.button27.Location = new System.Drawing.Point(17, 125);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(37, 10);
-            this.button27.TabIndex = 3;
-            this.button27.UseVisualStyleBackColor = true;
-            // 
-            // button28
-            // 
-            this.button28.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button28.Enabled = false;
-            this.button28.Location = new System.Drawing.Point(3, 79);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(8, 40);
-            this.button28.TabIndex = 4;
-            this.button28.UseVisualStyleBackColor = true;
-            // 
-            // button29
-            // 
-            this.button29.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button29.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button29.Enabled = false;
-            this.button29.Location = new System.Drawing.Point(3, 18);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(8, 40);
-            this.button29.TabIndex = 5;
-            this.button29.UseVisualStyleBackColor = true;
-            // 
-            // button30
-            // 
-            this.button30.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button30.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button30.Enabled = false;
-            this.button30.Location = new System.Drawing.Point(17, 64);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(37, 9);
-            this.button30.TabIndex = 6;
-            this.button30.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel4
-            // 
-            this.tableLayoutPanel4.ColumnCount = 3;
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel4.Controls.Add(this.button17, 1, 0);
-            this.tableLayoutPanel4.Controls.Add(this.button18, 2, 1);
-            this.tableLayoutPanel4.Controls.Add(this.button19, 2, 3);
-            this.tableLayoutPanel4.Controls.Add(this.button20, 1, 4);
-            this.tableLayoutPanel4.Controls.Add(this.button21, 0, 3);
-            this.tableLayoutPanel4.Controls.Add(this.button22, 0, 1);
-            this.tableLayoutPanel4.Controls.Add(this.button23, 1, 2);
-            this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(315, 111);
-            this.tableLayoutPanel4.Name = "tableLayoutPanel4";
-            this.tableLayoutPanel4.RowCount = 5;
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel4.TabIndex = 7;
-            // 
-            // button17
-            // 
-            this.button17.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button17.Enabled = false;
-            this.button17.Location = new System.Drawing.Point(17, 3);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(37, 9);
-            this.button17.TabIndex = 0;
-            this.button17.UseVisualStyleBackColor = true;
-            // 
-            // button18
-            // 
-            this.button18.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button18.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button18.Enabled = false;
-            this.button18.Location = new System.Drawing.Point(60, 18);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(9, 40);
-            this.button18.TabIndex = 1;
-            this.button18.UseVisualStyleBackColor = true;
-            // 
-            // button19
-            // 
-            this.button19.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button19.Enabled = false;
-            this.button19.Location = new System.Drawing.Point(60, 79);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(9, 40);
-            this.button19.TabIndex = 2;
-            this.button19.UseVisualStyleBackColor = true;
-            // 
-            // button20
-            // 
-            this.button20.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button20.Enabled = false;
-            this.button20.Location = new System.Drawing.Point(17, 125);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(37, 10);
-            this.button20.TabIndex = 3;
-            this.button20.UseVisualStyleBackColor = true;
-            // 
-            // button21
-            // 
-            this.button21.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button21.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button21.Enabled = false;
-            this.button21.Location = new System.Drawing.Point(3, 79);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(8, 40);
-            this.button21.TabIndex = 4;
-            this.button21.UseVisualStyleBackColor = true;
-            // 
-            // button22
-            // 
-            this.button22.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button22.Enabled = false;
-            this.button22.Location = new System.Drawing.Point(3, 18);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(8, 40);
-            this.button22.TabIndex = 5;
-            this.button22.UseVisualStyleBackColor = true;
-            // 
-            // button23
-            // 
-            this.button23.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button23.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button23.Enabled = false;
-            this.button23.Location = new System.Drawing.Point(17, 64);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(37, 9);
-            this.button23.TabIndex = 6;
-            this.button23.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel2
-            // 
-            this.tableLayoutPanel2.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.tableLayoutPanel2.ColumnCount = 3;
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel2.Controls.Add(this.button1, 1, 0);
-            this.tableLayoutPanel2.Controls.Add(this.button2, 2, 1);
-            this.tableLayoutPanel2.Controls.Add(this.button3, 2, 3);
-            this.tableLayoutPanel2.Controls.Add(this.button4, 1, 4);
-            this.tableLayoutPanel2.Controls.Add(this.button5, 0, 3);
-            this.tableLayoutPanel2.Controls.Add(this.button6, 0, 1);
-            this.tableLayoutPanel2.Controls.Add(this.button7, 1, 2);
-            this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(133, 111);
-            this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-            this.tableLayoutPanel2.RowCount = 5;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel2.TabIndex = 0;
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Enabled = false;
-            this.button1.Location = new System.Drawing.Point(17, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(37, 9);
-            this.button1.TabIndex = 0;
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Enabled = false;
-            this.button2.Location = new System.Drawing.Point(60, 18);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(9, 40);
-            this.button2.TabIndex = 1;
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Enabled = false;
-            this.button3.Location = new System.Drawing.Point(60, 79);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(9, 40);
-            this.button3.TabIndex = 2;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.Enabled = false;
-            this.button4.Location = new System.Drawing.Point(17, 125);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(37, 10);
-            this.button4.TabIndex = 3;
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button5.Enabled = false;
-            this.button5.Location = new System.Drawing.Point(3, 79);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(8, 40);
-            this.button5.TabIndex = 4;
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button6.Enabled = false;
-            this.button6.Location = new System.Drawing.Point(3, 18);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(8, 40);
-            this.button6.TabIndex = 5;
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            this.button7.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button7.Enabled = false;
-            this.button7.Location = new System.Drawing.Point(17, 64);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(37, 9);
-            this.button7.TabIndex = 6;
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel3
-            // 
-            this.tableLayoutPanel3.ColumnCount = 3;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel3.Controls.Add(this.button10, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.button11, 2, 1);
-            this.tableLayoutPanel3.Controls.Add(this.button12, 2, 3);
-            this.tableLayoutPanel3.Controls.Add(this.button13, 1, 4);
-            this.tableLayoutPanel3.Controls.Add(this.button14, 0, 3);
-            this.tableLayoutPanel3.Controls.Add(this.button15, 0, 1);
-            this.tableLayoutPanel3.Controls.Add(this.button16, 1, 2);
-            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(211, 111);
-            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
-            this.tableLayoutPanel3.RowCount = 5;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(72, 138);
-            this.tableLayoutPanel3.TabIndex = 1;
-            // 
-            // button10
-            // 
-            this.button10.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button10.Enabled = false;
-            this.button10.Location = new System.Drawing.Point(17, 3);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(37, 9);
-            this.button10.TabIndex = 0;
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            this.button11.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button11.Enabled = false;
-            this.button11.Location = new System.Drawing.Point(60, 18);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(9, 40);
-            this.button11.TabIndex = 1;
-            this.button11.UseVisualStyleBackColor = true;
-            // 
-            // button12
-            // 
-            this.button12.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button12.Enabled = false;
-            this.button12.Location = new System.Drawing.Point(60, 79);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(9, 40);
-            this.button12.TabIndex = 2;
-            this.button12.UseVisualStyleBackColor = true;
-            // 
-            // button13
-            // 
-            this.button13.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button13.Enabled = false;
-            this.button13.Location = new System.Drawing.Point(17, 125);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(37, 10);
-            this.button13.TabIndex = 3;
-            this.button13.UseVisualStyleBackColor = true;
-            // 
-            // button14
-            // 
-            this.button14.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button14.Enabled = false;
-            this.button14.Location = new System.Drawing.Point(3, 79);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(8, 40);
-            this.button14.TabIndex = 4;
-            this.button14.UseVisualStyleBackColor = true;
-            // 
-            // button15
-            // 
-            this.button15.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button15.Enabled = false;
-            this.button15.Location = new System.Drawing.Point(3, 18);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(8, 40);
-            this.button15.TabIndex = 5;
-            this.button15.UseVisualStyleBackColor = true;
-            // 
-            // button16
-            // 
-            this.button16.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button16.Enabled = false;
-            this.button16.Location = new System.Drawing.Point(17, 64);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(37, 9);
-            this.button16.TabIndex = 6;
-            this.button16.UseVisualStyleBackColor = true;
+            // s2
+            // 
+            this.s2.ColumnCount = 3;
+            this.s2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.s2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.s2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.s2.Controls.Add(this.s20, 1, 0);
+            this.s2.Controls.Add(this.s21, 2, 1);
+            this.s2.Controls.Add(this.s22, 2, 3);
+            this.s2.Controls.Add(this.s23, 1, 4);
+            this.s2.Controls.Add(this.s24, 0, 3);
+            this.s2.Controls.Add(this.s25, 0, 1);
+            this.s2.Controls.Add(this.s26, 1, 2);
+            this.s2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s2.Location = new System.Drawing.Point(575, 111);
+            this.s2.Name = "s2";
+            this.s2.RowCount = 5;
+            this.s2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.s2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.s2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s2.Size = new System.Drawing.Size(72, 138);
+            this.s2.TabIndex = 7;
+            // 
+            // s20
+            // 
+            this.s20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s20.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s20.Enabled = false;
+            this.s20.Location = new System.Drawing.Point(17, 3);
+            this.s20.Name = "s20";
+            this.s20.Size = new System.Drawing.Size(37, 9);
+            this.s20.TabIndex = 0;
+            this.s20.UseVisualStyleBackColor = true;
+            // 
+            // s21
+            // 
+            this.s21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s21.Enabled = false;
+            this.s21.Location = new System.Drawing.Point(60, 18);
+            this.s21.Name = "s21";
+            this.s21.Size = new System.Drawing.Size(9, 40);
+            this.s21.TabIndex = 1;
+            this.s21.UseVisualStyleBackColor = true;
+            // 
+            // s22
+            // 
+            this.s22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s22.Enabled = false;
+            this.s22.Location = new System.Drawing.Point(60, 79);
+            this.s22.Name = "s22";
+            this.s22.Size = new System.Drawing.Size(9, 40);
+            this.s22.TabIndex = 2;
+            this.s22.UseVisualStyleBackColor = true;
+            // 
+            // s23
+            // 
+            this.s23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s23.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s23.Enabled = false;
+            this.s23.Location = new System.Drawing.Point(17, 125);
+            this.s23.Name = "s23";
+            this.s23.Size = new System.Drawing.Size(37, 10);
+            this.s23.TabIndex = 3;
+            this.s23.UseVisualStyleBackColor = true;
+            // 
+            // s24
+            // 
+            this.s24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s24.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s24.Enabled = false;
+            this.s24.Location = new System.Drawing.Point(3, 79);
+            this.s24.Name = "s24";
+            this.s24.Size = new System.Drawing.Size(8, 40);
+            this.s24.TabIndex = 4;
+            this.s24.UseVisualStyleBackColor = true;
+            // 
+            // s25
+            // 
+            this.s25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s25.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s25.Enabled = false;
+            this.s25.Location = new System.Drawing.Point(3, 18);
+            this.s25.Name = "s25";
+            this.s25.Size = new System.Drawing.Size(8, 40);
+            this.s25.TabIndex = 5;
+            this.s25.UseVisualStyleBackColor = true;
+            // 
+            // s26
+            // 
+            this.s26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s26.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s26.Enabled = false;
+            this.s26.Location = new System.Drawing.Point(17, 64);
+            this.s26.Name = "s26";
+            this.s26.Size = new System.Drawing.Size(37, 9);
+            this.s26.TabIndex = 6;
+            this.s26.UseVisualStyleBackColor = true;
+            // 
+            // s1
+            // 
+            this.s1.ColumnCount = 3;
+            this.s1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.s1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.s1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.s1.Controls.Add(this.s10, 1, 0);
+            this.s1.Controls.Add(this.s11, 2, 1);
+            this.s1.Controls.Add(this.s12, 2, 3);
+            this.s1.Controls.Add(this.s13, 1, 4);
+            this.s1.Controls.Add(this.s14, 0, 3);
+            this.s1.Controls.Add(this.s15, 0, 1);
+            this.s1.Controls.Add(this.s16, 1, 2);
+            this.s1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s1.Location = new System.Drawing.Point(497, 111);
+            this.s1.Name = "s1";
+            this.s1.RowCount = 5;
+            this.s1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.s1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.s1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.s1.Size = new System.Drawing.Size(72, 138);
+            this.s1.TabIndex = 7;
+            // 
+            // s10
+            // 
+            this.s10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s10.Enabled = false;
+            this.s10.Location = new System.Drawing.Point(17, 3);
+            this.s10.Name = "s10";
+            this.s10.Size = new System.Drawing.Size(37, 9);
+            this.s10.TabIndex = 0;
+            this.s10.UseVisualStyleBackColor = true;
+            // 
+            // s11
+            // 
+            this.s11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s11.Enabled = false;
+            this.s11.Location = new System.Drawing.Point(60, 18);
+            this.s11.Name = "s11";
+            this.s11.Size = new System.Drawing.Size(9, 40);
+            this.s11.TabIndex = 1;
+            this.s11.UseVisualStyleBackColor = true;
+            // 
+            // s12
+            // 
+            this.s12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s12.Enabled = false;
+            this.s12.Location = new System.Drawing.Point(60, 79);
+            this.s12.Name = "s12";
+            this.s12.Size = new System.Drawing.Size(9, 40);
+            this.s12.TabIndex = 2;
+            this.s12.UseVisualStyleBackColor = true;
+            // 
+            // s13
+            // 
+            this.s13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s13.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s13.Enabled = false;
+            this.s13.Location = new System.Drawing.Point(17, 125);
+            this.s13.Name = "s13";
+            this.s13.Size = new System.Drawing.Size(37, 10);
+            this.s13.TabIndex = 3;
+            this.s13.UseVisualStyleBackColor = true;
+            // 
+            // s14
+            // 
+            this.s14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s14.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s14.Enabled = false;
+            this.s14.Location = new System.Drawing.Point(3, 79);
+            this.s14.Name = "s14";
+            this.s14.Size = new System.Drawing.Size(8, 40);
+            this.s14.TabIndex = 4;
+            this.s14.UseVisualStyleBackColor = true;
+            // 
+            // s15
+            // 
+            this.s15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s15.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s15.Enabled = false;
+            this.s15.Location = new System.Drawing.Point(3, 18);
+            this.s15.Name = "s15";
+            this.s15.Size = new System.Drawing.Size(8, 40);
+            this.s15.TabIndex = 5;
+            this.s15.UseVisualStyleBackColor = true;
+            // 
+            // s16
+            // 
+            this.s16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s16.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.s16.Enabled = false;
+            this.s16.Location = new System.Drawing.Point(17, 64);
+            this.s16.Name = "s16";
+            this.s16.Size = new System.Drawing.Size(37, 9);
+            this.s16.TabIndex = 6;
+            this.s16.UseVisualStyleBackColor = true;
+            // 
+            // m2
+            // 
+            this.m2.ColumnCount = 3;
+            this.m2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.m2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.m2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.m2.Controls.Add(this.m20, 1, 0);
+            this.m2.Controls.Add(this.m21, 2, 1);
+            this.m2.Controls.Add(this.m22, 2, 3);
+            this.m2.Controls.Add(this.m23, 1, 4);
+            this.m2.Controls.Add(this.m24, 0, 3);
+            this.m2.Controls.Add(this.m25, 0, 1);
+            this.m2.Controls.Add(this.m26, 1, 2);
+            this.m2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m2.Location = new System.Drawing.Point(393, 111);
+            this.m2.Name = "m2";
+            this.m2.RowCount = 5;
+            this.m2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.m2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.m2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m2.Size = new System.Drawing.Size(72, 138);
+            this.m2.TabIndex = 7;
+            // 
+            // m20
+            // 
+            this.m20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m20.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m20.Enabled = false;
+            this.m20.Location = new System.Drawing.Point(17, 3);
+            this.m20.Name = "m20";
+            this.m20.Size = new System.Drawing.Size(37, 9);
+            this.m20.TabIndex = 0;
+            this.m20.UseVisualStyleBackColor = true;
+            // 
+            // m21
+            // 
+            this.m21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m21.Enabled = false;
+            this.m21.Location = new System.Drawing.Point(60, 18);
+            this.m21.Name = "m21";
+            this.m21.Size = new System.Drawing.Size(9, 40);
+            this.m21.TabIndex = 1;
+            this.m21.UseVisualStyleBackColor = true;
+            // 
+            // m22
+            // 
+            this.m22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m22.Enabled = false;
+            this.m22.Location = new System.Drawing.Point(60, 79);
+            this.m22.Name = "m22";
+            this.m22.Size = new System.Drawing.Size(9, 40);
+            this.m22.TabIndex = 2;
+            this.m22.UseVisualStyleBackColor = true;
+            // 
+            // m23
+            // 
+            this.m23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m23.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m23.Enabled = false;
+            this.m23.Location = new System.Drawing.Point(17, 125);
+            this.m23.Name = "m23";
+            this.m23.Size = new System.Drawing.Size(37, 10);
+            this.m23.TabIndex = 3;
+            this.m23.UseVisualStyleBackColor = true;
+            // 
+            // m24
+            // 
+            this.m24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m24.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m24.Enabled = false;
+            this.m24.Location = new System.Drawing.Point(3, 79);
+            this.m24.Name = "m24";
+            this.m24.Size = new System.Drawing.Size(8, 40);
+            this.m24.TabIndex = 4;
+            this.m24.UseVisualStyleBackColor = true;
+            // 
+            // m25
+            // 
+            this.m25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m25.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m25.Enabled = false;
+            this.m25.Location = new System.Drawing.Point(3, 18);
+            this.m25.Name = "m25";
+            this.m25.Size = new System.Drawing.Size(8, 40);
+            this.m25.TabIndex = 5;
+            this.m25.UseVisualStyleBackColor = true;
+            // 
+            // m26
+            // 
+            this.m26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m26.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m26.Enabled = false;
+            this.m26.Location = new System.Drawing.Point(17, 64);
+            this.m26.Name = "m26";
+            this.m26.Size = new System.Drawing.Size(37, 9);
+            this.m26.TabIndex = 6;
+            this.m26.UseVisualStyleBackColor = true;
+            // 
+            // m1
+            // 
+            this.m1.ColumnCount = 3;
+            this.m1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.m1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.m1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.m1.Controls.Add(this.m10, 1, 0);
+            this.m1.Controls.Add(this.m11, 2, 1);
+            this.m1.Controls.Add(this.m12, 2, 3);
+            this.m1.Controls.Add(this.m13, 1, 4);
+            this.m1.Controls.Add(this.m14, 0, 3);
+            this.m1.Controls.Add(this.m15, 0, 1);
+            this.m1.Controls.Add(this.m16, 1, 2);
+            this.m1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m1.Location = new System.Drawing.Point(315, 111);
+            this.m1.Name = "m1";
+            this.m1.RowCount = 5;
+            this.m1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.m1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.m1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.m1.Size = new System.Drawing.Size(72, 138);
+            this.m1.TabIndex = 7;
+            // 
+            // m10
+            // 
+            this.m10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m10.Enabled = false;
+            this.m10.Location = new System.Drawing.Point(17, 3);
+            this.m10.Name = "m10";
+            this.m10.Size = new System.Drawing.Size(37, 9);
+            this.m10.TabIndex = 0;
+            this.m10.UseVisualStyleBackColor = true;
+            // 
+            // m11
+            // 
+            this.m11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m11.Enabled = false;
+            this.m11.Location = new System.Drawing.Point(60, 18);
+            this.m11.Name = "m11";
+            this.m11.Size = new System.Drawing.Size(9, 40);
+            this.m11.TabIndex = 1;
+            this.m11.UseVisualStyleBackColor = true;
+            // 
+            // m12
+            // 
+            this.m12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m12.Enabled = false;
+            this.m12.Location = new System.Drawing.Point(60, 79);
+            this.m12.Name = "m12";
+            this.m12.Size = new System.Drawing.Size(9, 40);
+            this.m12.TabIndex = 2;
+            this.m12.UseVisualStyleBackColor = true;
+            // 
+            // m13
+            // 
+            this.m13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m13.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m13.Enabled = false;
+            this.m13.Location = new System.Drawing.Point(17, 125);
+            this.m13.Name = "m13";
+            this.m13.Size = new System.Drawing.Size(37, 10);
+            this.m13.TabIndex = 3;
+            this.m13.UseVisualStyleBackColor = true;
+            // 
+            // m14
+            // 
+            this.m14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m14.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m14.Enabled = false;
+            this.m14.Location = new System.Drawing.Point(3, 79);
+            this.m14.Name = "m14";
+            this.m14.Size = new System.Drawing.Size(8, 40);
+            this.m14.TabIndex = 4;
+            this.m14.UseVisualStyleBackColor = true;
+            // 
+            // m15
+            // 
+            this.m15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m15.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m15.Enabled = false;
+            this.m15.Location = new System.Drawing.Point(3, 18);
+            this.m15.Name = "m15";
+            this.m15.Size = new System.Drawing.Size(8, 40);
+            this.m15.TabIndex = 5;
+            this.m15.UseVisualStyleBackColor = true;
+            // 
+            // m16
+            // 
+            this.m16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m16.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.m16.Enabled = false;
+            this.m16.Location = new System.Drawing.Point(17, 64);
+            this.m16.Name = "m16";
+            this.m16.Size = new System.Drawing.Size(37, 9);
+            this.m16.TabIndex = 6;
+            this.m16.UseVisualStyleBackColor = true;
+            // 
+            // h1
+            // 
+            this.h1.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.h1.ColumnCount = 3;
+            this.h1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.h1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.h1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.h1.Controls.Add(this.h10, 1, 0);
+            this.h1.Controls.Add(this.h11, 2, 1);
+            this.h1.Controls.Add(this.h12, 2, 3);
+            this.h1.Controls.Add(this.h13, 1, 4);
+            this.h1.Controls.Add(this.h14, 0, 3);
+            this.h1.Controls.Add(this.h15, 0, 1);
+            this.h1.Controls.Add(this.h16, 1, 2);
+            this.h1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h1.Location = new System.Drawing.Point(133, 111);
+            this.h1.Name = "h1";
+            this.h1.RowCount = 5;
+            this.h1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.h1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.h1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h1.Size = new System.Drawing.Size(72, 138);
+            this.h1.TabIndex = 0;
+            // 
+            // h10
+            // 
+            this.h10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h10.Enabled = false;
+            this.h10.Location = new System.Drawing.Point(17, 3);
+            this.h10.Name = "h10";
+            this.h10.Size = new System.Drawing.Size(37, 9);
+            this.h10.TabIndex = 0;
+            this.h10.UseVisualStyleBackColor = true;
+            // 
+            // h11
+            // 
+            this.h11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h11.Enabled = false;
+            this.h11.Location = new System.Drawing.Point(60, 18);
+            this.h11.Name = "h11";
+            this.h11.Size = new System.Drawing.Size(9, 40);
+            this.h11.TabIndex = 1;
+            this.h11.UseVisualStyleBackColor = true;
+            // 
+            // h12
+            // 
+            this.h12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h12.Enabled = false;
+            this.h12.Location = new System.Drawing.Point(60, 79);
+            this.h12.Name = "h12";
+            this.h12.Size = new System.Drawing.Size(9, 40);
+            this.h12.TabIndex = 2;
+            this.h12.UseVisualStyleBackColor = true;
+            // 
+            // h13
+            // 
+            this.h13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h13.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h13.Enabled = false;
+            this.h13.Location = new System.Drawing.Point(17, 125);
+            this.h13.Name = "h13";
+            this.h13.Size = new System.Drawing.Size(37, 10);
+            this.h13.TabIndex = 3;
+            this.h13.UseVisualStyleBackColor = true;
+            // 
+            // h14
+            // 
+            this.h14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h14.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h14.Enabled = false;
+            this.h14.Location = new System.Drawing.Point(3, 79);
+            this.h14.Name = "h14";
+            this.h14.Size = new System.Drawing.Size(8, 40);
+            this.h14.TabIndex = 4;
+            this.h14.UseVisualStyleBackColor = true;
+            // 
+            // h15
+            // 
+            this.h15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h15.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h15.Enabled = false;
+            this.h15.Location = new System.Drawing.Point(3, 18);
+            this.h15.Name = "h15";
+            this.h15.Size = new System.Drawing.Size(8, 40);
+            this.h15.TabIndex = 5;
+            this.h15.UseVisualStyleBackColor = true;
+            // 
+            // h16
+            // 
+            this.h16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h16.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h16.Enabled = false;
+            this.h16.Location = new System.Drawing.Point(17, 64);
+            this.h16.Name = "h16";
+            this.h16.Size = new System.Drawing.Size(37, 9);
+            this.h16.TabIndex = 6;
+            this.h16.UseVisualStyleBackColor = true;
+            // 
+            // h2
+            // 
+            this.h2.ColumnCount = 3;
+            this.h2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.h2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.h2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.h2.Controls.Add(this.h20, 1, 0);
+            this.h2.Controls.Add(this.h21, 2, 1);
+            this.h2.Controls.Add(this.h22, 2, 3);
+            this.h2.Controls.Add(this.h23, 1, 4);
+            this.h2.Controls.Add(this.h24, 0, 3);
+            this.h2.Controls.Add(this.h25, 0, 1);
+            this.h2.Controls.Add(this.h26, 1, 2);
+            this.h2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h2.Location = new System.Drawing.Point(211, 111);
+            this.h2.Name = "h2";
+            this.h2.RowCount = 5;
+            this.h2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.h2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.h2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 11.11111F));
+            this.h2.Size = new System.Drawing.Size(72, 138);
+            this.h2.TabIndex = 1;
+            // 
+            // h20
+            // 
+            this.h20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h20.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h20.Enabled = false;
+            this.h20.Location = new System.Drawing.Point(17, 3);
+            this.h20.Name = "h20";
+            this.h20.Size = new System.Drawing.Size(37, 9);
+            this.h20.TabIndex = 0;
+            this.h20.UseVisualStyleBackColor = true;
+            // 
+            // h21
+            // 
+            this.h21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h21.Enabled = false;
+            this.h21.Location = new System.Drawing.Point(60, 18);
+            this.h21.Name = "h21";
+            this.h21.Size = new System.Drawing.Size(9, 40);
+            this.h21.TabIndex = 1;
+            this.h21.UseVisualStyleBackColor = true;
+            // 
+            // h22
+            // 
+            this.h22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h22.Enabled = false;
+            this.h22.Location = new System.Drawing.Point(60, 79);
+            this.h22.Name = "h22";
+            this.h22.Size = new System.Drawing.Size(9, 40);
+            this.h22.TabIndex = 2;
+            this.h22.UseVisualStyleBackColor = true;
+            // 
+            // h23
+            // 
+            this.h23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h23.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h23.Enabled = false;
+            this.h23.Location = new System.Drawing.Point(17, 125);
+            this.h23.Name = "h23";
+            this.h23.Size = new System.Drawing.Size(37, 10);
+            this.h23.TabIndex = 3;
+            this.h23.UseVisualStyleBackColor = true;
+            // 
+            // h24
+            // 
+            this.h24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h24.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h24.Enabled = false;
+            this.h24.Location = new System.Drawing.Point(3, 79);
+            this.h24.Name = "h24";
+            this.h24.Size = new System.Drawing.Size(8, 40);
+            this.h24.TabIndex = 4;
+            this.h24.UseVisualStyleBackColor = true;
+            // 
+            // h25
+            // 
+            this.h25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h25.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h25.Enabled = false;
+            this.h25.Location = new System.Drawing.Point(3, 18);
+            this.h25.Name = "h25";
+            this.h25.Size = new System.Drawing.Size(8, 40);
+            this.h25.TabIndex = 5;
+            this.h25.UseVisualStyleBackColor = true;
+            // 
+            // h26
+            // 
+            this.h26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h26.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.h26.Enabled = false;
+            this.h26.Location = new System.Drawing.Point(17, 64);
+            this.h26.Name = "h26";
+            this.h26.Size = new System.Drawing.Size(37, 9);
+            this.h26.TabIndex = 6;
+            this.h26.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel8
             // 
@@ -861,12 +861,12 @@
             this.Text = "7-Segment Clock";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel9.ResumeLayout(false);
-            this.tableLayoutPanel7.ResumeLayout(false);
-            this.tableLayoutPanel6.ResumeLayout(false);
-            this.tableLayoutPanel5.ResumeLayout(false);
-            this.tableLayoutPanel4.ResumeLayout(false);
-            this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel3.ResumeLayout(false);
+            this.s2.ResumeLayout(false);
+            this.s1.ResumeLayout(false);
+            this.m2.ResumeLayout(false);
+            this.m1.ResumeLayout(false);
+            this.h1.ResumeLayout(false);
+            this.h2.ResumeLayout(false);
             this.tableLayoutPanel8.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -875,56 +875,56 @@
         #endregion
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.TableLayoutPanel h1;
+        private System.Windows.Forms.Button h10;
+        private System.Windows.Forms.Button h11;
+        private System.Windows.Forms.Button h12;
+        private System.Windows.Forms.Button h13;
+        private System.Windows.Forms.Button h14;
+        private System.Windows.Forms.Button h15;
+        private System.Windows.Forms.Button h16;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel7;
-        private System.Windows.Forms.Button button38;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Button button40;
-        private System.Windows.Forms.Button button41;
-        private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.Button button43;
-        private System.Windows.Forms.Button button44;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Button button34;
-        private System.Windows.Forms.Button button35;
-        private System.Windows.Forms.Button button36;
-        private System.Windows.Forms.Button button37;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Button button25;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button27;
-        private System.Windows.Forms.Button button28;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
+        private System.Windows.Forms.TableLayoutPanel s2;
+        private System.Windows.Forms.Button s20;
+        private System.Windows.Forms.Button s21;
+        private System.Windows.Forms.Button s22;
+        private System.Windows.Forms.Button s23;
+        private System.Windows.Forms.Button s24;
+        private System.Windows.Forms.Button s25;
+        private System.Windows.Forms.Button s26;
+        private System.Windows.Forms.TableLayoutPanel s1;
+        private System.Windows.Forms.Button s10;
+        private System.Windows.Forms.Button s11;
+        private System.Windows.Forms.Button s12;
+        private System.Windows.Forms.Button s13;
+        private System.Windows.Forms.Button s14;
+        private System.Windows.Forms.Button s15;
+        private System.Windows.Forms.Button s16;
+        private System.Windows.Forms.TableLayoutPanel m2;
+        private System.Windows.Forms.Button m20;
+        private System.Windows.Forms.Button m21;
+        private System.Windows.Forms.Button m22;
+        private System.Windows.Forms.Button m23;
+        private System.Windows.Forms.Button m24;
+        private System.Windows.Forms.Button m25;
+        private System.Windows.Forms.Button m26;
+        private System.Windows.Forms.TableLayoutPanel m1;
+        private System.Windows.Forms.Button m10;
+        private System.Windows.Forms.Button m11;
+        private System.Windows.Forms.Button m12;
+        private System.Windows.Forms.Button m13;
+        private System.Windows.Forms.Button m14;
+        private System.Windows.Forms.Button m15;
+        private System.Windows.Forms.Button m16;
+        private System.Windows.Forms.TableLayoutPanel h2;
+        private System.Windows.Forms.Button h20;
+        private System.Windows.Forms.Button h21;
+        private System.Windows.Forms.Button h22;
+        private System.Windows.Forms.Button h23;
+        private System.Windows.Forms.Button h24;
+        private System.Windows.Forms.Button h25;
+        private System.Windows.Forms.Button h26;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel9;
         private System.Windows.Forms.Button button47;
         private System.Windows.Forms.Button button48;

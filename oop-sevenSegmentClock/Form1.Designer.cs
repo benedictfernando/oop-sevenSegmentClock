@@ -147,7 +147,7 @@
             // 
             // colon2a
             // 
-            this.colon2a.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon2a.BackColor = System.Drawing.Color.DarkGreen;
             this.colon2a.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.colon2a.Enabled = false;
             this.colon2a.Location = new System.Drawing.Point(3, 35);
@@ -159,7 +159,7 @@
             // 
             // colon2b
             // 
-            this.colon2b.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon2b.BackColor = System.Drawing.Color.DarkGreen;
             this.colon2b.Dock = System.Windows.Forms.DockStyle.Top;
             this.colon2b.Enabled = false;
             this.colon2b.Location = new System.Drawing.Point(3, 89);
@@ -841,7 +841,7 @@
             // 
             // colon1b
             // 
-            this.colon1b.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon1b.BackColor = System.Drawing.Color.DarkGreen;
             this.colon1b.Dock = System.Windows.Forms.DockStyle.Top;
             this.colon1b.Enabled = false;
             this.colon1b.Location = new System.Drawing.Point(3, 89);
@@ -853,7 +853,7 @@
             // 
             // colon1a
             // 
-            this.colon1a.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon1a.BackColor = System.Drawing.Color.DarkGreen;
             this.colon1a.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.colon1a.Enabled = false;
             this.colon1a.Location = new System.Drawing.Point(3, 35);

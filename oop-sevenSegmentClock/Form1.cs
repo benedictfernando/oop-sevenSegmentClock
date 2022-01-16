@@ -82,7 +82,7 @@ namespace oop_sevenSegmentClock
             for (int i = 0, n = buttons.Length; i < n; i++)
             {
                 if (segments[i]) 
-                    buttons[i].BackColor = SystemColors.ControlDarkDark;
+                    buttons[i].BackColor = Color.DarkGreen;
                 else 
                     buttons[i].BackColor = SystemColors.AppWorkspace;
             }

@@ -32,8 +32,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(sevensegmentclock));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel9 = new System.Windows.Forms.TableLayoutPanel();
-            this.button47 = new System.Windows.Forms.Button();
-            this.button48 = new System.Windows.Forms.Button();
+            this.colon2a = new System.Windows.Forms.Button();
+            this.colon2b = new System.Windows.Forms.Button();
             this.s2 = new System.Windows.Forms.TableLayoutPanel();
             this.s20 = new System.Windows.Forms.Button();
             this.s21 = new System.Windows.Forms.Button();
@@ -83,8 +83,8 @@
             this.h25 = new System.Windows.Forms.Button();
             this.h26 = new System.Windows.Forms.Button();
             this.tableLayoutPanel8 = new System.Windows.Forms.TableLayoutPanel();
-            this.button46 = new System.Windows.Forms.Button();
-            this.button45 = new System.Windows.Forms.Button();
+            this.colon1b = new System.Windows.Forms.Button();
+            this.colon1a = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.time = new System.Windows.Forms.Timer(this.components);
@@ -134,8 +134,8 @@
             // 
             this.tableLayoutPanel9.ColumnCount = 1;
             this.tableLayoutPanel9.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel9.Controls.Add(this.button47, 0, 0);
-            this.tableLayoutPanel9.Controls.Add(this.button48, 0, 1);
+            this.tableLayoutPanel9.Controls.Add(this.colon2a, 0, 0);
+            this.tableLayoutPanel9.Controls.Add(this.colon2b, 0, 1);
             this.tableLayoutPanel9.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel9.Location = new System.Drawing.Point(471, 111);
             this.tableLayoutPanel9.Name = "tableLayoutPanel9";
@@ -145,29 +145,29 @@
             this.tableLayoutPanel9.Size = new System.Drawing.Size(20, 138);
             this.tableLayoutPanel9.TabIndex = 9;
             // 
-            // button47
+            // colon2a
             // 
-            this.button47.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button47.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.button47.Enabled = false;
-            this.button47.Location = new System.Drawing.Point(3, 35);
-            this.button47.Margin = new System.Windows.Forms.Padding(3, 3, 3, 20);
-            this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(14, 14);
-            this.button47.TabIndex = 0;
-            this.button47.UseVisualStyleBackColor = true;
+            this.colon2a.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon2a.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.colon2a.Enabled = false;
+            this.colon2a.Location = new System.Drawing.Point(3, 35);
+            this.colon2a.Margin = new System.Windows.Forms.Padding(3, 3, 3, 20);
+            this.colon2a.Name = "colon2a";
+            this.colon2a.Size = new System.Drawing.Size(14, 14);
+            this.colon2a.TabIndex = 0;
+            this.colon2a.UseVisualStyleBackColor = false;
             // 
-            // button48
+            // colon2b
             // 
-            this.button48.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button48.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button48.Enabled = false;
-            this.button48.Location = new System.Drawing.Point(3, 89);
-            this.button48.Margin = new System.Windows.Forms.Padding(3, 20, 3, 3);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(14, 14);
-            this.button48.TabIndex = 1;
-            this.button48.UseVisualStyleBackColor = true;
+            this.colon2b.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon2b.Dock = System.Windows.Forms.DockStyle.Top;
+            this.colon2b.Enabled = false;
+            this.colon2b.Location = new System.Drawing.Point(3, 89);
+            this.colon2b.Margin = new System.Windows.Forms.Padding(3, 20, 3, 3);
+            this.colon2b.Name = "colon2b";
+            this.colon2b.Size = new System.Drawing.Size(14, 14);
+            this.colon2b.TabIndex = 1;
+            this.colon2b.UseVisualStyleBackColor = false;
             // 
             // s2
             // 
@@ -196,80 +196,87 @@
             // 
             // s20
             // 
-            this.s20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s20.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s20.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s20.Enabled = false;
-            this.s20.Location = new System.Drawing.Point(17, 3);
+            this.s20.Location = new System.Drawing.Point(14, 0);
+            this.s20.Margin = new System.Windows.Forms.Padding(0);
             this.s20.Name = "s20";
-            this.s20.Size = new System.Drawing.Size(37, 9);
+            this.s20.Size = new System.Drawing.Size(43, 15);
             this.s20.TabIndex = 0;
-            this.s20.UseVisualStyleBackColor = true;
+            this.s20.UseVisualStyleBackColor = false;
             // 
             // s21
             // 
-            this.s21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s21.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s21.Enabled = false;
-            this.s21.Location = new System.Drawing.Point(60, 18);
+            this.s21.Location = new System.Drawing.Point(57, 15);
+            this.s21.Margin = new System.Windows.Forms.Padding(0);
             this.s21.Name = "s21";
-            this.s21.Size = new System.Drawing.Size(9, 40);
+            this.s21.Size = new System.Drawing.Size(15, 46);
             this.s21.TabIndex = 1;
-            this.s21.UseVisualStyleBackColor = true;
+            this.s21.UseVisualStyleBackColor = false;
             // 
             // s22
             // 
-            this.s22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s22.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s22.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s22.Enabled = false;
-            this.s22.Location = new System.Drawing.Point(60, 79);
+            this.s22.Location = new System.Drawing.Point(57, 76);
+            this.s22.Margin = new System.Windows.Forms.Padding(0);
             this.s22.Name = "s22";
-            this.s22.Size = new System.Drawing.Size(9, 40);
+            this.s22.Size = new System.Drawing.Size(15, 46);
             this.s22.TabIndex = 2;
-            this.s22.UseVisualStyleBackColor = true;
+            this.s22.UseVisualStyleBackColor = false;
             // 
             // s23
             // 
-            this.s23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s23.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s23.Enabled = false;
-            this.s23.Location = new System.Drawing.Point(17, 125);
+            this.s23.Location = new System.Drawing.Point(14, 122);
+            this.s23.Margin = new System.Windows.Forms.Padding(0);
             this.s23.Name = "s23";
-            this.s23.Size = new System.Drawing.Size(37, 10);
+            this.s23.Size = new System.Drawing.Size(43, 16);
             this.s23.TabIndex = 3;
-            this.s23.UseVisualStyleBackColor = true;
+            this.s23.UseVisualStyleBackColor = false;
             // 
             // s24
             // 
-            this.s24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s24.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s24.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s24.Enabled = false;
-            this.s24.Location = new System.Drawing.Point(3, 79);
+            this.s24.Location = new System.Drawing.Point(0, 76);
+            this.s24.Margin = new System.Windows.Forms.Padding(0);
             this.s24.Name = "s24";
-            this.s24.Size = new System.Drawing.Size(8, 40);
+            this.s24.Size = new System.Drawing.Size(14, 46);
             this.s24.TabIndex = 4;
-            this.s24.UseVisualStyleBackColor = true;
+            this.s24.UseVisualStyleBackColor = false;
             // 
             // s25
             // 
-            this.s25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s25.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s25.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s25.Enabled = false;
-            this.s25.Location = new System.Drawing.Point(3, 18);
+            this.s25.Location = new System.Drawing.Point(0, 15);
+            this.s25.Margin = new System.Windows.Forms.Padding(0);
             this.s25.Name = "s25";
-            this.s25.Size = new System.Drawing.Size(8, 40);
+            this.s25.Size = new System.Drawing.Size(14, 46);
             this.s25.TabIndex = 5;
-            this.s25.UseVisualStyleBackColor = true;
+            this.s25.UseVisualStyleBackColor = false;
             // 
             // s26
             // 
-            this.s26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s26.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s26.Enabled = false;
-            this.s26.Location = new System.Drawing.Point(17, 64);
+            this.s26.Location = new System.Drawing.Point(14, 61);
+            this.s26.Margin = new System.Windows.Forms.Padding(0);
             this.s26.Name = "s26";
-            this.s26.Size = new System.Drawing.Size(37, 9);
+            this.s26.Size = new System.Drawing.Size(43, 15);
             this.s26.TabIndex = 6;
-            this.s26.UseVisualStyleBackColor = true;
+            this.s26.UseVisualStyleBackColor = false;
             // 
             // s1
             // 
@@ -298,80 +305,87 @@
             // 
             // s10
             // 
-            this.s10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s10.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s10.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s10.Enabled = false;
-            this.s10.Location = new System.Drawing.Point(17, 3);
+            this.s10.Location = new System.Drawing.Point(14, 0);
+            this.s10.Margin = new System.Windows.Forms.Padding(0);
             this.s10.Name = "s10";
-            this.s10.Size = new System.Drawing.Size(37, 9);
+            this.s10.Size = new System.Drawing.Size(43, 15);
             this.s10.TabIndex = 0;
-            this.s10.UseVisualStyleBackColor = true;
+            this.s10.UseVisualStyleBackColor = false;
             // 
             // s11
             // 
-            this.s11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s11.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s11.Enabled = false;
-            this.s11.Location = new System.Drawing.Point(60, 18);
+            this.s11.Location = new System.Drawing.Point(57, 15);
+            this.s11.Margin = new System.Windows.Forms.Padding(0);
             this.s11.Name = "s11";
-            this.s11.Size = new System.Drawing.Size(9, 40);
+            this.s11.Size = new System.Drawing.Size(15, 46);
             this.s11.TabIndex = 1;
-            this.s11.UseVisualStyleBackColor = true;
+            this.s11.UseVisualStyleBackColor = false;
             // 
             // s12
             // 
-            this.s12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s12.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s12.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s12.Enabled = false;
-            this.s12.Location = new System.Drawing.Point(60, 79);
+            this.s12.Location = new System.Drawing.Point(57, 76);
+            this.s12.Margin = new System.Windows.Forms.Padding(0);
             this.s12.Name = "s12";
-            this.s12.Size = new System.Drawing.Size(9, 40);
+            this.s12.Size = new System.Drawing.Size(15, 46);
             this.s12.TabIndex = 2;
-            this.s12.UseVisualStyleBackColor = true;
+            this.s12.UseVisualStyleBackColor = false;
             // 
             // s13
             // 
-            this.s13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s13.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s13.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s13.Enabled = false;
-            this.s13.Location = new System.Drawing.Point(17, 125);
+            this.s13.Location = new System.Drawing.Point(14, 122);
+            this.s13.Margin = new System.Windows.Forms.Padding(0);
             this.s13.Name = "s13";
-            this.s13.Size = new System.Drawing.Size(37, 10);
+            this.s13.Size = new System.Drawing.Size(43, 16);
             this.s13.TabIndex = 3;
-            this.s13.UseVisualStyleBackColor = true;
+            this.s13.UseVisualStyleBackColor = false;
             // 
             // s14
             // 
-            this.s14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s14.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s14.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s14.Enabled = false;
-            this.s14.Location = new System.Drawing.Point(3, 79);
+            this.s14.Location = new System.Drawing.Point(0, 76);
+            this.s14.Margin = new System.Windows.Forms.Padding(0);
             this.s14.Name = "s14";
-            this.s14.Size = new System.Drawing.Size(8, 40);
+            this.s14.Size = new System.Drawing.Size(14, 46);
             this.s14.TabIndex = 4;
-            this.s14.UseVisualStyleBackColor = true;
+            this.s14.UseVisualStyleBackColor = false;
             // 
             // s15
             // 
-            this.s15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s15.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s15.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s15.Enabled = false;
-            this.s15.Location = new System.Drawing.Point(3, 18);
+            this.s15.Location = new System.Drawing.Point(0, 15);
+            this.s15.Margin = new System.Windows.Forms.Padding(0);
             this.s15.Name = "s15";
-            this.s15.Size = new System.Drawing.Size(8, 40);
+            this.s15.Size = new System.Drawing.Size(14, 46);
             this.s15.TabIndex = 5;
-            this.s15.UseVisualStyleBackColor = true;
+            this.s15.UseVisualStyleBackColor = false;
             // 
             // s16
             // 
-            this.s16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.s16.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.s16.Dock = System.Windows.Forms.DockStyle.Fill;
             this.s16.Enabled = false;
-            this.s16.Location = new System.Drawing.Point(17, 64);
+            this.s16.Location = new System.Drawing.Point(14, 61);
+            this.s16.Margin = new System.Windows.Forms.Padding(0);
             this.s16.Name = "s16";
-            this.s16.Size = new System.Drawing.Size(37, 9);
+            this.s16.Size = new System.Drawing.Size(43, 15);
             this.s16.TabIndex = 6;
-            this.s16.UseVisualStyleBackColor = true;
+            this.s16.UseVisualStyleBackColor = false;
             // 
             // m2
             // 
@@ -400,80 +414,87 @@
             // 
             // m20
             // 
-            this.m20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m20.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m20.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m20.Enabled = false;
-            this.m20.Location = new System.Drawing.Point(17, 3);
+            this.m20.Location = new System.Drawing.Point(14, 0);
+            this.m20.Margin = new System.Windows.Forms.Padding(0);
             this.m20.Name = "m20";
-            this.m20.Size = new System.Drawing.Size(37, 9);
+            this.m20.Size = new System.Drawing.Size(43, 15);
             this.m20.TabIndex = 0;
-            this.m20.UseVisualStyleBackColor = true;
+            this.m20.UseVisualStyleBackColor = false;
             // 
             // m21
             // 
-            this.m21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m21.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m21.Enabled = false;
-            this.m21.Location = new System.Drawing.Point(60, 18);
+            this.m21.Location = new System.Drawing.Point(57, 15);
+            this.m21.Margin = new System.Windows.Forms.Padding(0);
             this.m21.Name = "m21";
-            this.m21.Size = new System.Drawing.Size(9, 40);
+            this.m21.Size = new System.Drawing.Size(15, 46);
             this.m21.TabIndex = 1;
-            this.m21.UseVisualStyleBackColor = true;
+            this.m21.UseVisualStyleBackColor = false;
             // 
             // m22
             // 
-            this.m22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m22.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m22.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m22.Enabled = false;
-            this.m22.Location = new System.Drawing.Point(60, 79);
+            this.m22.Location = new System.Drawing.Point(57, 76);
+            this.m22.Margin = new System.Windows.Forms.Padding(0);
             this.m22.Name = "m22";
-            this.m22.Size = new System.Drawing.Size(9, 40);
+            this.m22.Size = new System.Drawing.Size(15, 46);
             this.m22.TabIndex = 2;
-            this.m22.UseVisualStyleBackColor = true;
+            this.m22.UseVisualStyleBackColor = false;
             // 
             // m23
             // 
-            this.m23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m23.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m23.Enabled = false;
-            this.m23.Location = new System.Drawing.Point(17, 125);
+            this.m23.Location = new System.Drawing.Point(14, 122);
+            this.m23.Margin = new System.Windows.Forms.Padding(0);
             this.m23.Name = "m23";
-            this.m23.Size = new System.Drawing.Size(37, 10);
+            this.m23.Size = new System.Drawing.Size(43, 16);
             this.m23.TabIndex = 3;
-            this.m23.UseVisualStyleBackColor = true;
+            this.m23.UseVisualStyleBackColor = false;
             // 
             // m24
             // 
-            this.m24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m24.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m24.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m24.Enabled = false;
-            this.m24.Location = new System.Drawing.Point(3, 79);
+            this.m24.Location = new System.Drawing.Point(0, 76);
+            this.m24.Margin = new System.Windows.Forms.Padding(0);
             this.m24.Name = "m24";
-            this.m24.Size = new System.Drawing.Size(8, 40);
+            this.m24.Size = new System.Drawing.Size(14, 46);
             this.m24.TabIndex = 4;
-            this.m24.UseVisualStyleBackColor = true;
+            this.m24.UseVisualStyleBackColor = false;
             // 
             // m25
             // 
-            this.m25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m25.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m25.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m25.Enabled = false;
-            this.m25.Location = new System.Drawing.Point(3, 18);
+            this.m25.Location = new System.Drawing.Point(0, 15);
+            this.m25.Margin = new System.Windows.Forms.Padding(0);
             this.m25.Name = "m25";
-            this.m25.Size = new System.Drawing.Size(8, 40);
+            this.m25.Size = new System.Drawing.Size(14, 46);
             this.m25.TabIndex = 5;
-            this.m25.UseVisualStyleBackColor = true;
+            this.m25.UseVisualStyleBackColor = false;
             // 
             // m26
             // 
-            this.m26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m26.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m26.Enabled = false;
-            this.m26.Location = new System.Drawing.Point(17, 64);
+            this.m26.Location = new System.Drawing.Point(14, 61);
+            this.m26.Margin = new System.Windows.Forms.Padding(0);
             this.m26.Name = "m26";
-            this.m26.Size = new System.Drawing.Size(37, 9);
+            this.m26.Size = new System.Drawing.Size(43, 15);
             this.m26.TabIndex = 6;
-            this.m26.UseVisualStyleBackColor = true;
+            this.m26.UseVisualStyleBackColor = false;
             // 
             // m1
             // 
@@ -502,80 +523,87 @@
             // 
             // m10
             // 
-            this.m10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m10.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m10.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m10.Enabled = false;
-            this.m10.Location = new System.Drawing.Point(17, 3);
+            this.m10.Location = new System.Drawing.Point(14, 0);
+            this.m10.Margin = new System.Windows.Forms.Padding(0);
             this.m10.Name = "m10";
-            this.m10.Size = new System.Drawing.Size(37, 9);
+            this.m10.Size = new System.Drawing.Size(43, 15);
             this.m10.TabIndex = 0;
-            this.m10.UseVisualStyleBackColor = true;
+            this.m10.UseVisualStyleBackColor = false;
             // 
             // m11
             // 
-            this.m11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m11.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m11.Enabled = false;
-            this.m11.Location = new System.Drawing.Point(60, 18);
+            this.m11.Location = new System.Drawing.Point(57, 15);
+            this.m11.Margin = new System.Windows.Forms.Padding(0);
             this.m11.Name = "m11";
-            this.m11.Size = new System.Drawing.Size(9, 40);
+            this.m11.Size = new System.Drawing.Size(15, 46);
             this.m11.TabIndex = 1;
-            this.m11.UseVisualStyleBackColor = true;
+            this.m11.UseVisualStyleBackColor = false;
             // 
             // m12
             // 
-            this.m12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m12.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m12.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m12.Enabled = false;
-            this.m12.Location = new System.Drawing.Point(60, 79);
+            this.m12.Location = new System.Drawing.Point(57, 76);
+            this.m12.Margin = new System.Windows.Forms.Padding(0);
             this.m12.Name = "m12";
-            this.m12.Size = new System.Drawing.Size(9, 40);
+            this.m12.Size = new System.Drawing.Size(15, 46);
             this.m12.TabIndex = 2;
-            this.m12.UseVisualStyleBackColor = true;
+            this.m12.UseVisualStyleBackColor = false;
             // 
             // m13
             // 
-            this.m13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m13.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m13.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m13.Enabled = false;
-            this.m13.Location = new System.Drawing.Point(17, 125);
+            this.m13.Location = new System.Drawing.Point(14, 122);
+            this.m13.Margin = new System.Windows.Forms.Padding(0);
             this.m13.Name = "m13";
-            this.m13.Size = new System.Drawing.Size(37, 10);
+            this.m13.Size = new System.Drawing.Size(43, 16);
             this.m13.TabIndex = 3;
-            this.m13.UseVisualStyleBackColor = true;
+            this.m13.UseVisualStyleBackColor = false;
             // 
             // m14
             // 
-            this.m14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m14.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m14.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m14.Enabled = false;
-            this.m14.Location = new System.Drawing.Point(3, 79);
+            this.m14.Location = new System.Drawing.Point(0, 76);
+            this.m14.Margin = new System.Windows.Forms.Padding(0);
             this.m14.Name = "m14";
-            this.m14.Size = new System.Drawing.Size(8, 40);
+            this.m14.Size = new System.Drawing.Size(14, 46);
             this.m14.TabIndex = 4;
-            this.m14.UseVisualStyleBackColor = true;
+            this.m14.UseVisualStyleBackColor = false;
             // 
             // m15
             // 
-            this.m15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m15.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m15.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m15.Enabled = false;
-            this.m15.Location = new System.Drawing.Point(3, 18);
+            this.m15.Location = new System.Drawing.Point(0, 15);
+            this.m15.Margin = new System.Windows.Forms.Padding(0);
             this.m15.Name = "m15";
-            this.m15.Size = new System.Drawing.Size(8, 40);
+            this.m15.Size = new System.Drawing.Size(14, 46);
             this.m15.TabIndex = 5;
-            this.m15.UseVisualStyleBackColor = true;
+            this.m15.UseVisualStyleBackColor = false;
             // 
             // m16
             // 
-            this.m16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.m16.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.m16.Dock = System.Windows.Forms.DockStyle.Fill;
             this.m16.Enabled = false;
-            this.m16.Location = new System.Drawing.Point(17, 64);
+            this.m16.Location = new System.Drawing.Point(14, 61);
+            this.m16.Margin = new System.Windows.Forms.Padding(0);
             this.m16.Name = "m16";
-            this.m16.Size = new System.Drawing.Size(37, 9);
+            this.m16.Size = new System.Drawing.Size(43, 15);
             this.m16.TabIndex = 6;
-            this.m16.UseVisualStyleBackColor = true;
+            this.m16.UseVisualStyleBackColor = false;
             // 
             // h1
             // 
@@ -605,80 +633,87 @@
             // 
             // h10
             // 
-            this.h10.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h10.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h10.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h10.Enabled = false;
-            this.h10.Location = new System.Drawing.Point(17, 3);
+            this.h10.Location = new System.Drawing.Point(14, 0);
+            this.h10.Margin = new System.Windows.Forms.Padding(0);
             this.h10.Name = "h10";
-            this.h10.Size = new System.Drawing.Size(37, 9);
+            this.h10.Size = new System.Drawing.Size(43, 15);
             this.h10.TabIndex = 0;
-            this.h10.UseVisualStyleBackColor = true;
+            this.h10.UseVisualStyleBackColor = false;
             // 
             // h11
             // 
-            this.h11.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h11.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h11.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h11.Enabled = false;
-            this.h11.Location = new System.Drawing.Point(60, 18);
+            this.h11.Location = new System.Drawing.Point(57, 15);
+            this.h11.Margin = new System.Windows.Forms.Padding(0);
             this.h11.Name = "h11";
-            this.h11.Size = new System.Drawing.Size(9, 40);
+            this.h11.Size = new System.Drawing.Size(15, 46);
             this.h11.TabIndex = 1;
-            this.h11.UseVisualStyleBackColor = true;
+            this.h11.UseVisualStyleBackColor = false;
             // 
             // h12
             // 
-            this.h12.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h12.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h12.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h12.Enabled = false;
-            this.h12.Location = new System.Drawing.Point(60, 79);
+            this.h12.Location = new System.Drawing.Point(57, 76);
+            this.h12.Margin = new System.Windows.Forms.Padding(0);
             this.h12.Name = "h12";
-            this.h12.Size = new System.Drawing.Size(9, 40);
+            this.h12.Size = new System.Drawing.Size(15, 46);
             this.h12.TabIndex = 2;
-            this.h12.UseVisualStyleBackColor = true;
+            this.h12.UseVisualStyleBackColor = false;
             // 
             // h13
             // 
-            this.h13.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h13.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h13.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h13.Enabled = false;
-            this.h13.Location = new System.Drawing.Point(17, 125);
+            this.h13.Location = new System.Drawing.Point(14, 122);
+            this.h13.Margin = new System.Windows.Forms.Padding(0);
             this.h13.Name = "h13";
-            this.h13.Size = new System.Drawing.Size(37, 10);
+            this.h13.Size = new System.Drawing.Size(43, 16);
             this.h13.TabIndex = 3;
-            this.h13.UseVisualStyleBackColor = true;
+            this.h13.UseVisualStyleBackColor = false;
             // 
             // h14
             // 
-            this.h14.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h14.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h14.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h14.Enabled = false;
-            this.h14.Location = new System.Drawing.Point(3, 79);
+            this.h14.Location = new System.Drawing.Point(0, 76);
+            this.h14.Margin = new System.Windows.Forms.Padding(0);
             this.h14.Name = "h14";
-            this.h14.Size = new System.Drawing.Size(8, 40);
+            this.h14.Size = new System.Drawing.Size(14, 46);
             this.h14.TabIndex = 4;
-            this.h14.UseVisualStyleBackColor = true;
+            this.h14.UseVisualStyleBackColor = false;
             // 
             // h15
             // 
-            this.h15.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h15.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h15.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h15.Enabled = false;
-            this.h15.Location = new System.Drawing.Point(3, 18);
+            this.h15.Location = new System.Drawing.Point(0, 15);
+            this.h15.Margin = new System.Windows.Forms.Padding(0);
             this.h15.Name = "h15";
-            this.h15.Size = new System.Drawing.Size(8, 40);
+            this.h15.Size = new System.Drawing.Size(14, 46);
             this.h15.TabIndex = 5;
-            this.h15.UseVisualStyleBackColor = true;
+            this.h15.UseVisualStyleBackColor = false;
             // 
             // h16
             // 
-            this.h16.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h16.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h16.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h16.Enabled = false;
-            this.h16.Location = new System.Drawing.Point(17, 64);
+            this.h16.Location = new System.Drawing.Point(14, 61);
+            this.h16.Margin = new System.Windows.Forms.Padding(0);
             this.h16.Name = "h16";
-            this.h16.Size = new System.Drawing.Size(37, 9);
+            this.h16.Size = new System.Drawing.Size(43, 15);
             this.h16.TabIndex = 6;
-            this.h16.UseVisualStyleBackColor = true;
+            this.h16.UseVisualStyleBackColor = false;
             // 
             // h2
             // 
@@ -707,87 +742,94 @@
             // 
             // h20
             // 
-            this.h20.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h20.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h20.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h20.Enabled = false;
-            this.h20.Location = new System.Drawing.Point(17, 3);
+            this.h20.Location = new System.Drawing.Point(14, 0);
+            this.h20.Margin = new System.Windows.Forms.Padding(0);
             this.h20.Name = "h20";
-            this.h20.Size = new System.Drawing.Size(37, 9);
+            this.h20.Size = new System.Drawing.Size(43, 15);
             this.h20.TabIndex = 0;
-            this.h20.UseVisualStyleBackColor = true;
+            this.h20.UseVisualStyleBackColor = false;
             // 
             // h21
             // 
-            this.h21.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h21.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h21.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h21.Enabled = false;
-            this.h21.Location = new System.Drawing.Point(60, 18);
+            this.h21.Location = new System.Drawing.Point(57, 15);
+            this.h21.Margin = new System.Windows.Forms.Padding(0);
             this.h21.Name = "h21";
-            this.h21.Size = new System.Drawing.Size(9, 40);
+            this.h21.Size = new System.Drawing.Size(15, 46);
             this.h21.TabIndex = 1;
-            this.h21.UseVisualStyleBackColor = true;
+            this.h21.UseVisualStyleBackColor = false;
             // 
             // h22
             // 
-            this.h22.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h22.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h22.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h22.Enabled = false;
-            this.h22.Location = new System.Drawing.Point(60, 79);
+            this.h22.Location = new System.Drawing.Point(57, 76);
+            this.h22.Margin = new System.Windows.Forms.Padding(0);
             this.h22.Name = "h22";
-            this.h22.Size = new System.Drawing.Size(9, 40);
+            this.h22.Size = new System.Drawing.Size(15, 46);
             this.h22.TabIndex = 2;
-            this.h22.UseVisualStyleBackColor = true;
+            this.h22.UseVisualStyleBackColor = false;
             // 
             // h23
             // 
-            this.h23.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h23.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h23.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h23.Enabled = false;
-            this.h23.Location = new System.Drawing.Point(17, 125);
+            this.h23.Location = new System.Drawing.Point(14, 122);
+            this.h23.Margin = new System.Windows.Forms.Padding(0);
             this.h23.Name = "h23";
-            this.h23.Size = new System.Drawing.Size(37, 10);
+            this.h23.Size = new System.Drawing.Size(43, 16);
             this.h23.TabIndex = 3;
-            this.h23.UseVisualStyleBackColor = true;
+            this.h23.UseVisualStyleBackColor = false;
             // 
             // h24
             // 
-            this.h24.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h24.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h24.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h24.Enabled = false;
-            this.h24.Location = new System.Drawing.Point(3, 79);
+            this.h24.Location = new System.Drawing.Point(0, 76);
+            this.h24.Margin = new System.Windows.Forms.Padding(0);
             this.h24.Name = "h24";
-            this.h24.Size = new System.Drawing.Size(8, 40);
+            this.h24.Size = new System.Drawing.Size(14, 46);
             this.h24.TabIndex = 4;
-            this.h24.UseVisualStyleBackColor = true;
+            this.h24.UseVisualStyleBackColor = false;
             // 
             // h25
             // 
-            this.h25.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h25.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h25.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h25.Enabled = false;
-            this.h25.Location = new System.Drawing.Point(3, 18);
+            this.h25.Location = new System.Drawing.Point(0, 15);
+            this.h25.Margin = new System.Windows.Forms.Padding(0);
             this.h25.Name = "h25";
-            this.h25.Size = new System.Drawing.Size(8, 40);
+            this.h25.Size = new System.Drawing.Size(14, 46);
             this.h25.TabIndex = 5;
-            this.h25.UseVisualStyleBackColor = true;
+            this.h25.UseVisualStyleBackColor = false;
             // 
             // h26
             // 
-            this.h26.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.h26.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.h26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.h26.Enabled = false;
-            this.h26.Location = new System.Drawing.Point(17, 64);
+            this.h26.Location = new System.Drawing.Point(14, 61);
+            this.h26.Margin = new System.Windows.Forms.Padding(0);
             this.h26.Name = "h26";
-            this.h26.Size = new System.Drawing.Size(37, 9);
+            this.h26.Size = new System.Drawing.Size(43, 15);
             this.h26.TabIndex = 6;
-            this.h26.UseVisualStyleBackColor = true;
+            this.h26.UseVisualStyleBackColor = false;
             // 
             // tableLayoutPanel8
             // 
             this.tableLayoutPanel8.ColumnCount = 1;
             this.tableLayoutPanel8.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel8.Controls.Add(this.button46, 0, 1);
-            this.tableLayoutPanel8.Controls.Add(this.button45, 0, 0);
+            this.tableLayoutPanel8.Controls.Add(this.colon1b, 0, 1);
+            this.tableLayoutPanel8.Controls.Add(this.colon1a, 0, 0);
             this.tableLayoutPanel8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel8.Location = new System.Drawing.Point(289, 111);
             this.tableLayoutPanel8.Name = "tableLayoutPanel8";
@@ -797,29 +839,29 @@
             this.tableLayoutPanel8.Size = new System.Drawing.Size(20, 138);
             this.tableLayoutPanel8.TabIndex = 8;
             // 
-            // button46
+            // colon1b
             // 
-            this.button46.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button46.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button46.Enabled = false;
-            this.button46.Location = new System.Drawing.Point(3, 89);
-            this.button46.Margin = new System.Windows.Forms.Padding(3, 20, 3, 3);
-            this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(14, 14);
-            this.button46.TabIndex = 1;
-            this.button46.UseVisualStyleBackColor = true;
+            this.colon1b.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon1b.Dock = System.Windows.Forms.DockStyle.Top;
+            this.colon1b.Enabled = false;
+            this.colon1b.Location = new System.Drawing.Point(3, 89);
+            this.colon1b.Margin = new System.Windows.Forms.Padding(3, 20, 3, 3);
+            this.colon1b.Name = "colon1b";
+            this.colon1b.Size = new System.Drawing.Size(14, 14);
+            this.colon1b.TabIndex = 1;
+            this.colon1b.UseVisualStyleBackColor = false;
             // 
-            // button45
+            // colon1a
             // 
-            this.button45.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button45.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.button45.Enabled = false;
-            this.button45.Location = new System.Drawing.Point(3, 35);
-            this.button45.Margin = new System.Windows.Forms.Padding(3, 3, 3, 20);
-            this.button45.Name = "button45";
-            this.button45.Size = new System.Drawing.Size(14, 14);
-            this.button45.TabIndex = 0;
-            this.button45.UseVisualStyleBackColor = true;
+            this.colon1a.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.colon1a.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.colon1a.Enabled = false;
+            this.colon1a.Location = new System.Drawing.Point(3, 35);
+            this.colon1a.Margin = new System.Windows.Forms.Padding(3, 3, 3, 20);
+            this.colon1a.Name = "colon1a";
+            this.colon1a.Size = new System.Drawing.Size(14, 14);
+            this.colon1a.TabIndex = 0;
+            this.colon1a.UseVisualStyleBackColor = false;
             // 
             // button8
             // 
@@ -926,11 +968,11 @@
         private System.Windows.Forms.Button h25;
         private System.Windows.Forms.Button h26;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel9;
-        private System.Windows.Forms.Button button47;
-        private System.Windows.Forms.Button button48;
+        private System.Windows.Forms.Button colon2a;
+        private System.Windows.Forms.Button colon2b;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel8;
-        private System.Windows.Forms.Button button46;
-        private System.Windows.Forms.Button button45;
+        private System.Windows.Forms.Button colon1b;
+        private System.Windows.Forms.Button colon1a;
         private System.Windows.Forms.Timer time;
     }
 }

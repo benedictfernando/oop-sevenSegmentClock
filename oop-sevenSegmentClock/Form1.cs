@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace oop_sevenSegmentClock
@@ -20,9 +16,8 @@ namespace oop_sevenSegmentClock
             InitializeComponent();
 
             // Add tables to global list
-            panels.Add(h1); panels.Add(h2);
-            panels.Add(m1); panels.Add(m2);
-            panels.Add(s1); panels.Add(s2);
+            panels.Add(h1); panels.Add(h2); panels.Add(m1);
+            panels.Add(m2); panels.Add(s1); panels.Add(s2);
         }
 
         private void loadTime(object sender, EventArgs e)
@@ -34,24 +29,63 @@ namespace oop_sevenSegmentClock
 
         private void printSegment(TableLayoutPanel tlp, char val)
         {
-            // Button[7] buttons;
+            var buttons = new Button[7];
 
-            // foreach (var button in tlp.Controls.TypeOf<Button>)
-                // buttons[Int32.parse(button.Text[2])] = button;
+            foreach (var button in tlp.Controls.OfType<Button>())
+                buttons[button.Name[2] - '0'] = button;
 
-            // bool[] segments;
-            // switch (val)
-                // case '1':
-                    // segments = {true, true, true, true, ...}; break;
-                // case '2':
-                    // segments = {false, true, true, false, ...}; break;
-                // ...
+            bool[] segments = {};
+            switch (val)
+            {
+                case '0':
+                    segments = new bool[] { 
+                        true, true, true, true, true, true, false 
+                    }; break;
+                case '1':
+                    segments = new bool[] {
+                        false, true, true, false, false, false, false
+                    }; break;
+                case '2':
+                    segments = new bool[] {
+                        true, true, false, true, true, false, true
+                    }; break;
+                case '3':
+                    segments = new bool[] {
+                        true, true, true, true, false, false, true
+                    }; break;
+                case '4':
+                    segments = new bool[] {
+                        false, true, true, false, false, true, true
+                    }; break;
+                case '5':
+                    segments = new bool[] {
+                        true, false, true, true, false, true, true
+                    }; break;
+                case '6':
+                    segments = new bool[] {
+                        true, false, true, true, true, true, true
+                    }; break;
+                case '7':
+                    segments = new bool[] {
+                        true, true, true, false, false, false, false
+                    }; break;
+                case '8':
+                    segments = new bool[] {
+                        true, true, true, true, true, true, true
+                    }; break;
+                case '9':
+                    segments = new bool[] {
+                        true, true, true, true, false, true, true
+                    }; break;
+            }
 
-            // for (int i = 0, n = buttons.length; i < n; i++)
-                // if segments[i]
-                    // buttons[i].Color = black;
-                // else 
-                    // buttons[i].Color = white;
+            for (int i = 0, n = buttons.Length; i < n; i++)
+            {
+                if (segments[i]) 
+                    buttons[i].BackColor = SystemColors.ControlDarkDark;
+                else 
+                    buttons[i].BackColor = SystemColors.AppWorkspace;
+            }
         }
     }
 }
